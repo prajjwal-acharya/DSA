@@ -61,8 +61,8 @@ If you find improvements or want to contribute additional problems, feel free to
 
 ## 🛠️ Setup & Usage
 ```sh
-git clone https://github.com/your-username/DSA-Learning.git
-cd DSA-Learning
+git clone https://github.com/your-username/DSA.git
+cd DSA
 ```
 You can then explore and edit the files in your favorite **code editor (VS Code, CLion, etc.)**.
 
