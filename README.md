@@ -11,7 +11,7 @@ This repository serves as a structured collection of **Data Structures and Algor
 
 ## 📂 Repository Structure
 ```
-DSA-Learning-Repo/
+DSA/
 │── Arrays/
 │   ├── problem1.cpp
 │   ├── problem1.md
@@ -40,6 +40,7 @@ Each **topic folder** contains:
 ## 📖 Topics Covered
 - 📌 **Arrays**
 - 📌 **Linked Lists**
+- 📌 **Recursion**
 - 📌 **Dynamic Programming**
 - 📌 **Graphs**
 - 📌 **Sorting Algorithms**
